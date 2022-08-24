@@ -334,9 +334,7 @@
     "viewer": "Viewer",
     "viewer_description": "Viewers can only view and use requests."
   },
-  "remove": {
-    "star": "Remove star ⭐️"
-  },
+  "remove_star": "Remove star ⭐️",
   "request": {
     "added": "Request added",
     "authorization": "Authorization",
