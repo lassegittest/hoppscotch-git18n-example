@@ -473,7 +473,8 @@
       "realtime": "Go to Realtime page",
       "rest": "Go to REST page",
       "settings": "Go to Settings page",
-      "title": "Navigation"
+      "title": "Navigation",
+      "dummy_attr": "Just a dummy attribute for testing"
     },
     "request": {
       "copy_request_link": "Copy Request Link",
