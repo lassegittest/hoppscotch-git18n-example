@@ -660,5 +660,25 @@
     "message": "Message",
     "protocols": "Protocols",
     "url": "URL"
+  },
+  "testing": {
+    "level_0": {
+      "title": "Level 0 title",
+      "level_1": {
+        "title": "Level 1 title",
+        "level_2": {
+          "title": "Level 2 title",
+          "level_3": {
+            "level_4": {
+              "title": "Level 4 title",
+              "level_5": {
+                "title": "Level 5 title",
+                "path": "level 5 path"
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
