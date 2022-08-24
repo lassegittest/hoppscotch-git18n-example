@@ -291,7 +291,8 @@
     "topic_name": "اسم الموضوع",
     "topic_title": "نشر / اشتراك الموضوع",
     "unsubscribe": "إلغاء الاشتراك",
-    "url": "URL"
+    "url": "URL",
+    "communication_title": "تواصل"
   },
   "navigation": {
     "doc": "المستندات",
