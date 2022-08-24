@@ -43,11 +43,11 @@
     "yes": "Yes"
   },
   "add": {
-    "new": "Add new",
-    "star": "Add star"
+    "new": "Add new 🎉",
+    "star": "Add star ⭐️"
   },
   "app": {
-    "chat_with_us": "Chat with us",
+    "chat_with_us": "Chat with us!",
     "contact_us": "Contact us",
     "copy": "Copy",
     "copy_user_id": "Copy User Auth Token",
@@ -149,10 +149,10 @@
   },
   "documentation": {
     "generate": "Generate documentation",
-    "generate_message": "Import any Hoppscotch collection to generate API documentation on-the-go."
+    "generate_message": "Import any Hoppscotch collections and generate API documentation on-the-go."
   },
   "empty": {
-    "authorization": "This request does not use any authorization",
+    "authorization": "This request does not use any authorization!",
     "body": "This request does not have a body",
     "collection": "Collection is empty",
     "collections": "Collections are empty",
@@ -295,7 +295,7 @@
     "import_export": "Import / Export"
   },
   "mqtt": {
-    "communication": "Communication",
+    "communication_title": "Communication title (key updated)",
     "log": "Log",
     "message": "Message",
     "publish": "Publish",
@@ -335,7 +335,7 @@
     "viewer_description": "Viewers can only view and use requests."
   },
   "remove": {
-    "star": "Remove star"
+    "star": "Remove star ⭐️"
   },
   "request": {
     "added": "Request added",
