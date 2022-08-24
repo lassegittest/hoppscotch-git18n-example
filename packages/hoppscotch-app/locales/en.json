@@ -457,6 +457,9 @@
       "show_all": "Keyboard shortcuts",
       "title": "General"
     },
+    "test_shortcut": {
+      "lorem_ipsum": "hello world"
+    },
     "miscellaneous": {
       "invite": "Invite people to Hoppscotch",
       "title": "Miscellaneous"
