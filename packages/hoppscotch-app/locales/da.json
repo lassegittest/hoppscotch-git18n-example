@@ -37,7 +37,8 @@
     "undo": "Fortryd",
     "yes": "Ja",
     "autoscroll": "Autoscroll på dansk!",
-    "filter_response": "Filtrer svar (CHANGED)"
+    "filter_response": "Filtrer svar (CHANGED)",
+    "open_workspace": "Aabnet kontorlandskab"
   },
   "add": {
     "new": "Tilføj ny",
